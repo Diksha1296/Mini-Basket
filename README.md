@@ -47,7 +47,7 @@ The dataset consists of the following attributes:
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/big-basket-analysis.git
+   git clone https://github.com/Diksha1296/Mini-Basket
    ```
 2. Navigate to the project directory:
    ```bash
